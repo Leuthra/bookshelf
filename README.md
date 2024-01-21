@@ -35,7 +35,7 @@
     npm start
     ```
 
-   The API will be accessible at [http://localhost:5000](http://localhost:5000).
+   The API will be accessible at [http://localhost:3000](http://localhost:3000).
 
 <h2>Endpoints</h2>
 
